@@ -15,4 +15,3 @@ def reformat_languages(languages)
       end
       new_langauge
   end
-end
