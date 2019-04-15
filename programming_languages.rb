@@ -10,9 +10,9 @@ def reformat_languages(languages)
         style_array = []
         style_array << style
         new_langauge[language][:style] = style_array
+        end
+        end
       end
-    end
+      new_langauge
   end
-  new_langauge
-end
 end
